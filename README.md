@@ -1,0 +1,1 @@
+# securecoin-seeder
